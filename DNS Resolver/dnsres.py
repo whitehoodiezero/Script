@@ -13,4 +13,4 @@ def enumerate_subdomains(domain):
             pass
     return subdomains
 
-print(enumerate_subdomains("outlier.ai"))
+print(enumerate_subdomains("test.eu"))
